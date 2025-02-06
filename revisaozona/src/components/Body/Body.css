@@ -1,0 +1,5 @@
+.container-body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: gray;
+    height: calc(100vh - 60px);
+}

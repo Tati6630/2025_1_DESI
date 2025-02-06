@@ -1,0 +1,10 @@
+.container-header{
+    height: 60px;
+    background-color: lightsalmon;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
